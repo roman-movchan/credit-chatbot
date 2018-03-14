@@ -17,7 +17,7 @@
     },
     "require-dev": {
         "symfony/dotenv": "^3.4",
-        "symfony/maker-bundle": "^1.2",
+        "symfony/maker-bundle": "^1.2"
     },
     "config": {
         "preferred-install": {
