@@ -6,7 +6,9 @@
         "ext-iconv": "*",
         "botman/botman": "^2.3",
         "botman/driver-facebook": "^1.7",
+        "sensio/framework-extra-bundle": "^5.1",
         "symfony/console": "^3.4",
+        "symfony/debug-pack": "^1.0",
         "symfony/flex": "^1.0",
         "symfony/framework-bundle": "^3.4",
         "symfony/lts": "^3",
@@ -14,6 +16,7 @@
     },
     "require-dev": {
         "symfony/dotenv": "^3.4",
+        "symfony/maker-bundle": "^1.2",
         "symfony/web-server-bundle": "^3.4"
     },
     "config": {
